@@ -4,10 +4,7 @@
       <router-link to="/" class="navbar-brand">Customerku</router-link>
       <div class="navbar-nav mr-auto">
         <li class="nav-item">
-          <router-link to="/customer" class="nav-link">Customer</router-link>
-        </li>
-        <li class="nav-item">
-          <router-link to="/tambah" class="nav-link">Tambah Customer</router-link>
+          <router-link to="/about" class="nav-link">Tentang Kami</router-link>
         </li>
       </div>
     </nav>
